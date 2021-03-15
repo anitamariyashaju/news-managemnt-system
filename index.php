@@ -25,10 +25,10 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                   <ul class="navbar-nav ml-auto">
                     <li class="nav-item active">
-                      <a class="nav-link text-white" href="login.html">Login <span class="sr-only"></span></a>
+                      <a class="nav-link text-white" href="login.php">Login <span class="sr-only"></span></a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link text-white" href="register.html">Register</a>
+                      <a class="nav-link text-white" href="register.php">Register</a>
                     </li>
                     
                     
